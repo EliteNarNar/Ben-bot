@@ -1,0 +1,141 @@
+2021-05-14 14:23:03,806:DEBUG:bot: Ben bot starting...
+2021-05-14 14:23:03,963:DEBUG:bot: Ben bot starting...
+2021-05-14 14:23:03,963:DEBUG:bot: Ben bot starting...
+2021-05-14 14:23:06,426:DEBUG:bot: Birthday Sleeping for 67013 seconds
+2021-05-14 14:23:06,426:DEBUG:bot: Birthday Sleeping for 67013 seconds
+2021-05-14 14:23:06,427:DEBUG:bot: Player of the day sleeping for 2213 seconds
+2021-05-14 14:23:06,427:DEBUG:bot: Player of the day sleeping for 2213 seconds
+2021-05-14 14:23:06,429:DEBUG:bot: Parsed last-updated settings
+2021-05-14 14:23:06,429:DEBUG:bot: Parsed last-updated settings
+2021-05-14 14:23:06,429:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 14:23:06,429:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 14:33:06,433:DEBUG:bot: Parsed last-updated settings
+2021-05-14 14:33:06,433:DEBUG:bot: Parsed last-updated settings
+2021-05-14 14:33:06,434:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 14:33:06,434:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 14:43:06,434:DEBUG:bot: Parsed last-updated settings
+2021-05-14 14:43:06,434:DEBUG:bot: Parsed last-updated settings
+2021-05-14 14:43:06,435:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 14:43:06,435:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 14:53:06,433:DEBUG:bot: Parsed last-updated settings
+2021-05-14 14:53:06,433:DEBUG:bot: Parsed last-updated settings
+2021-05-14 14:53:06,433:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 14:53:06,433:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 15:00:00,432:DEBUG:bot: Checking if time to activate
+2021-05-14 15:00:00,432:DEBUG:bot: Checking if time to activate
+2021-05-14 15:00:00,432:DEBUG:bot: Exeption: string indices must be integers
+ The value of guild settings is 14/5 at 14:59:56
+2021-05-14 15:00:00,432:DEBUG:bot: Exeption: string indices must be integers
+ The value of guild settings is 14/5 at 14:59:56
+2021-05-14 15:00:00,432:DEBUG:bot: No guilds have chosen this hour to pick
+2021-05-14 15:00:00,432:DEBUG:bot: No guilds have chosen this hour to pick
+2021-05-14 15:03:06,433:DEBUG:bot: Parsed last-updated settings
+2021-05-14 15:03:06,433:DEBUG:bot: Parsed last-updated settings
+2021-05-14 15:03:06,433:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 15:03:06,433:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 15:13:06,436:DEBUG:bot: Parsed last-updated settings
+2021-05-14 15:13:06,436:DEBUG:bot: Parsed last-updated settings
+2021-05-14 15:13:06,437:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 15:13:06,437:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 15:23:06,437:DEBUG:bot: Parsed last-updated settings
+2021-05-14 15:23:06,437:DEBUG:bot: Parsed last-updated settings
+2021-05-14 15:23:06,438:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 15:23:06,438:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 15:33:06,436:DEBUG:bot: Parsed last-updated settings
+2021-05-14 15:33:06,436:DEBUG:bot: Parsed last-updated settings
+2021-05-14 15:33:06,437:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 15:33:06,437:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 15:43:06,434:DEBUG:bot: Parsed last-updated settings
+2021-05-14 15:43:06,434:DEBUG:bot: Parsed last-updated settings
+2021-05-14 15:43:06,434:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 15:43:06,434:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 15:53:06,435:DEBUG:bot: Parsed last-updated settings
+2021-05-14 15:53:06,435:DEBUG:bot: Parsed last-updated settings
+2021-05-14 15:53:06,435:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 15:53:06,435:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 16:00:00,435:DEBUG:bot: Checking if time to activate
+2021-05-14 16:00:00,435:DEBUG:bot: Checking if time to activate
+2021-05-14 16:00:00,436:DEBUG:bot: Choosing player of the day for Tripp
+2021-05-14 16:00:00,436:DEBUG:bot: Choosing player of the day for Tripp
+2021-05-14 16:00:00,566:DEBUG:bot: Player of the day role removed from Shower
+2021-05-14 16:00:00,566:DEBUG:bot: Player of the day role removed from Shower
+2021-05-14 16:00:00,569:DEBUG:bot: Contender is 'TheBetterNeyot'
+2021-05-14 16:00:00,569:DEBUG:bot: Contender is 'TheBetterNeyot'
+2021-05-14 16:00:00,569:DEBUG:bot: Person is either a bot or not high enough ranked
+2021-05-14 16:00:00,569:DEBUG:bot: Person is either a bot or not high enough ranked
+2021-05-14 16:00:00,572:DEBUG:bot: Contender is 'Zenxah_'
+2021-05-14 16:00:00,572:DEBUG:bot: Contender is 'Zenxah_'
+2021-05-14 16:00:00,572:DEBUG:bot: Person is either a bot or not high enough ranked
+2021-05-14 16:00:00,572:DEBUG:bot: Person is either a bot or not high enough ranked
+2021-05-14 16:00:00,572:DEBUG:bot: Contender is 'poppy123'
+2021-05-14 16:00:00,572:DEBUG:bot: Contender is 'poppy123'
+2021-05-14 16:00:00,572:DEBUG:bot: Person is either a bot or not high enough ranked
+2021-05-14 16:00:00,572:DEBUG:bot: Person is either a bot or not high enough ranked
+2021-05-14 16:00:00,573:DEBUG:bot: Contender is 'ItsBenjyBoi'
+2021-05-14 16:00:00,573:DEBUG:bot: Contender is 'ItsBenjyBoi'
+2021-05-14 16:00:00,573:DEBUG:bot: Person is either a bot or not high enough ranked
+2021-05-14 16:00:00,573:DEBUG:bot: Person is either a bot or not high enough ranked
+2021-05-14 16:00:00,573:DEBUG:bot: Contender is 'infinityxak'
+2021-05-14 16:00:00,573:DEBUG:bot: Contender is 'infinityxak'
+2021-05-14 16:00:00,573:DEBUG:bot: Person is either a bot or not high enough ranked
+2021-05-14 16:00:00,573:DEBUG:bot: Person is either a bot or not high enough ranked
+2021-05-14 16:00:00,573:DEBUG:bot: Contender is 'megypeggy'
+2021-05-14 16:00:00,573:DEBUG:bot: Contender is 'megypeggy'
+2021-05-14 16:00:00,573:DEBUG:bot: Person is either a bot or not high enough ranked
+2021-05-14 16:00:00,573:DEBUG:bot: Person is either a bot or not high enough ranked
+2021-05-14 16:00:00,573:DEBUG:bot: Contender is 'bleubear'
+2021-05-14 16:00:00,573:DEBUG:bot: Contender is 'bleubear'
+2021-05-14 16:00:00,574:DEBUG:bot: Person is either a bot or not high enough ranked
+2021-05-14 16:00:00,574:DEBUG:bot: Person is either a bot or not high enough ranked
+2021-05-14 16:00:00,574:DEBUG:bot: Contender is 'narnars test-bot'
+2021-05-14 16:00:00,574:DEBUG:bot: Contender is 'narnars test-bot'
+2021-05-14 16:00:00,575:DEBUG:bot: Person is either a bot or not high enough ranked
+2021-05-14 16:00:00,575:DEBUG:bot: Person is either a bot or not high enough ranked
+2021-05-14 16:00:00,575:DEBUG:bot: Contender is 'Morganchar430'
+2021-05-14 16:00:00,575:DEBUG:bot: Contender is 'Morganchar430'
+2021-05-14 16:00:00,575:DEBUG:bot: Person is either a bot or not high enough ranked
+2021-05-14 16:00:00,575:DEBUG:bot: Person is either a bot or not high enough ranked
+2021-05-14 16:00:00,575:DEBUG:bot: Contender is 'TheBetterNeyot'
+2021-05-14 16:00:00,575:DEBUG:bot: Contender is 'TheBetterNeyot'
+2021-05-14 16:00:00,575:DEBUG:bot: Person is either a bot or not high enough ranked
+2021-05-14 16:00:00,575:DEBUG:bot: Person is either a bot or not high enough ranked
+2021-05-14 16:00:00,576:DEBUG:bot: Contender is 'poppy123'
+2021-05-14 16:00:00,576:DEBUG:bot: Contender is 'poppy123'
+2021-05-14 16:00:00,576:DEBUG:bot: Person is either a bot or not high enough ranked
+2021-05-14 16:00:00,576:DEBUG:bot: Person is either a bot or not high enough ranked
+2021-05-14 16:00:00,576:DEBUG:bot: Contender is 'megypeggy'
+2021-05-14 16:00:00,576:DEBUG:bot: Contender is 'megypeggy'
+2021-05-14 16:00:00,577:DEBUG:bot: Person is either a bot or not high enough ranked
+2021-05-14 16:00:00,577:DEBUG:bot: Person is either a bot or not high enough ranked
+2021-05-14 16:00:00,577:DEBUG:bot: Contender is 'BaddTrip'
+2021-05-14 16:00:00,577:DEBUG:bot: Contender is 'BaddTrip'
+2021-05-14 16:00:00,577:DEBUG:bot: BaddTrip has been selected
+2021-05-14 16:00:00,577:DEBUG:bot: BaddTrip has been selected
+2021-05-14 16:00:00,665:DEBUG:bot: BaddTrip has been set as last winner
+2021-05-14 16:00:00,665:DEBUG:bot: BaddTrip has been set as last winner
+2021-05-14 16:00:00,665:DEBUG:bot: Potd is BaddTrip
+2021-05-14 16:00:00,665:DEBUG:bot: Potd is BaddTrip
+2021-05-14 16:00:00,852:DEBUG:bot: BaddTrip#2008 has been set as last winner again just in case
+2021-05-14 16:00:00,852:DEBUG:bot: BaddTrip#2008 has been set as last winner again just in case
+2021-05-14 16:00:00,852:DEBUG:bot: Choosing player of the day for Ben-bot
+2021-05-14 16:00:00,852:DEBUG:bot: Choosing player of the day for Ben-bot
+2021-05-14 16:00:00,852:DEBUG:bot: Choosing player of the day for Kiinan Työsuojeluviranomainen [https://discord.gg/RWgNRj7]
+2021-05-14 16:00:00,852:DEBUG:bot: Choosing player of the day for Kiinan Työsuojeluviranomainen [https://discord.gg/RWgNRj7]
+2021-05-14 16:00:00,853:DEBUG:bot: Choosing player of the day for Quality Memes
+2021-05-14 16:00:00,853:DEBUG:bot: Choosing player of the day for Quality Memes
+2021-05-14 16:00:00,853:DEBUG:bot: Exeption: string indices must be integers
+ The value of guild settings is 14/5 at 15:59:56
+2021-05-14 16:00:00,853:DEBUG:bot: Exeption: string indices must be integers
+ The value of guild settings is 14/5 at 15:59:56
+2021-05-14 16:03:06,434:DEBUG:bot: Parsed last-updated settings
+2021-05-14 16:03:06,434:DEBUG:bot: Parsed last-updated settings
+2021-05-14 16:03:06,435:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 16:03:06,435:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 16:13:06,431:DEBUG:bot: Parsed last-updated settings
+2021-05-14 16:13:06,431:DEBUG:bot: Parsed last-updated settings
+2021-05-14 16:13:06,432:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 16:13:06,432:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 16:23:06,444:DEBUG:bot: Parsed last-updated settings
+2021-05-14 16:23:06,444:DEBUG:bot: Parsed last-updated settings
+2021-05-14 16:23:06,444:DEBUG:bot: dictionary changed size during iteration
+2021-05-14 16:23:06,444:DEBUG:bot: dictionary changed size during iteration
